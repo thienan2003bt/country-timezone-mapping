@@ -1,0 +1,1742 @@
+[
+    {
+        "gmt": "GMT-16:31",
+        "zone": "Europe/Andorra",
+        "name": "Andorra"
+    },
+    {
+        "gmt": "GMT-19:31",
+        "zone": "Asia/Dubai",
+        "name": "Dubai"
+    },
+    {
+        "gmt": "GMT-20:01",
+        "zone": "Asia/Kabul",
+        "name": "Kabul"
+    },
+    {
+        "gmt": "GMT-16:31",
+        "zone": "Europe/Tirane",
+        "name": "Tirane"
+    },
+    {
+        "gmt": "GMT-19:31",
+        "zone": "Asia/Yerevan",
+        "name": "Yerevan"
+    },
+    {
+        "gmt": "GMT-23:31",
+        "zone": "Antarctica/Casey",
+        "name": "Casey Station"
+    },
+    {
+        "gmt": "GMT-22:31",
+        "zone": "Antarctica/Davis",
+        "name": "Davis Station"
+    },
+    {
+        "gmt": "GMT-01:31",
+        "zone": "Antarctica/DumontDUrville",
+        "name": "Dumont d’Urville Station"
+    },
+    {
+        "gmt": "GMT-20:31",
+        "zone": "Antarctica/Mawson",
+        "name": "Mawson Station"
+    },
+    {
+        "gmt": "GMT-12:31",
+        "zone": "Antarctica/Palmer",
+        "name": "Palmer Station"
+    },
+    {
+        "gmt": "GMT-18:31",
+        "zone": "Antarctica/Rothera",
+        "name": "Rothera Station"
+    },
+    {
+        "gmt": "GMT-15:31",
+        "zone": "Antarctica/Syowa",
+        "name": "Syowa Station"
+    },
+    {
+        "gmt": "GMT-20:31",
+        "zone": "Antarctica/Troll",
+        "name": "Troll Station"
+    },
+    {
+        "gmt": "GMT-12:31",
+        "zone": "Antarctica/Vostok",
+        "name": "Vostok Station"
+    },
+    {
+        "gmt": "GMT-12:31",
+        "zone": "America/Argentina/Buenos_Aires",
+        "name": "Buenos Aires"
+    },
+    {
+        "gmt": "GMT-12:31",
+        "zone": "America/Argentina/Cordoba",
+        "name": "Cordoba"
+    },
+    {
+        "gmt": "GMT-12:31",
+        "zone": "America/Argentina/Salta",
+        "name": "Salta"
+    },
+    {
+        "gmt": "GMT-12:31",
+        "zone": "America/Argentina/Jujuy",
+        "name": "Jujuy"
+    },
+    {
+        "gmt": "GMT-12:31",
+        "zone": "America/Argentina/Tucuman",
+        "name": "Tucuman"
+    },
+    {
+        "gmt": "GMT-12:31",
+        "zone": "America/Argentina/Catamarca",
+        "name": "Catamarca"
+    },
+    {
+        "gmt": "GMT-12:31",
+        "zone": "America/Argentina/La_Rioja",
+        "name": "La Rioja"
+    },
+    {
+        "gmt": "GMT-12:31",
+        "zone": "America/Argentina/San_Juan",
+        "name": "San Juan"
+    },
+    {
+        "gmt": "GMT-12:31",
+        "zone": "America/Argentina/Mendoza",
+        "name": "Mendoza"
+    },
+    {
+        "gmt": "GMT-12:31",
+        "zone": "America/Argentina/San_Luis",
+        "name": "San Luis"
+    },
+    {
+        "gmt": "GMT-12:31",
+        "zone": "America/Argentina/Rio_Gallegos",
+        "name": "Rio Gallegos"
+    },
+    {
+        "gmt": "GMT-12:31",
+        "zone": "America/Argentina/Ushuaia",
+        "name": "Ushuaia"
+    },
+    {
+        "gmt": "GMT-04:31",
+        "zone": "Pacific/Pago_Pago",
+        "name": "Pago Pago"
+    },
+    {
+        "gmt": "GMT-16:31",
+        "zone": "Europe/Vienna",
+        "name": "Vienna"
+    },
+    {
+        "gmt": "GMT-02:31",
+        "zone": "Australia/Lord_Howe",
+        "name": "Lord Howe Island"
+    },
+    {
+        "gmt": "GMT-02:31",
+        "zone": "Antarctica/Macquarie",
+        "name": "Macquarie Island"
+    },
+    {
+        "gmt": "GMT-02:31",
+        "zone": "Australia/Hobart",
+        "name": "Hobart"
+    },
+    {
+        "gmt": "GMT-02:31",
+        "zone": "Australia/Currie",
+        "name": "Currie"
+    },
+    {
+        "gmt": "GMT-02:31",
+        "zone": "Australia/Melbourne",
+        "name": "Melbourne"
+    },
+    {
+        "gmt": "GMT-02:31",
+        "zone": "Australia/Sydney",
+        "name": "Sydney"
+    },
+    {
+        "gmt": "GMT-02:01",
+        "zone": "Australia/Broken_Hill",
+        "name": "Broken Hill"
+    },
+    {
+        "gmt": "GMT-01:31",
+        "zone": "Australia/Brisbane",
+        "name": "Brisbane"
+    },
+    {
+        "gmt": "GMT-01:31",
+        "zone": "Australia/Lindeman",
+        "name": "Brisbane"
+    },
+    {
+        "gmt": "GMT-02:01",
+        "zone": "Australia/Adelaide",
+        "name": ""
+    },
+    {
+        "gmt": "GMT-01:01",
+        "zone": "Australia/Darwin",
+        "name": "Darwin"
+    },
+    {
+        "gmt": "GMT-23:31",
+        "zone": "Australia/Perth",
+        "name": "Perth"
+    },
+    {
+        "gmt": "GMT-00:16",
+        "zone": "Australia/Eucla",
+        "name": "Eucla"
+    },
+    {
+        "gmt": "GMT-19:31",
+        "zone": "Asia/Baku",
+        "name": "Baku"
+    },
+    {
+        "gmt": "GMT-11:31",
+        "zone": "America/Barbados",
+        "name": "Barbados"
+    },
+    {
+        "gmt": "GMT-21:31",
+        "zone": "Asia/Dhaka",
+        "name": "Dhaka"
+    },
+    {
+        "gmt": "GMT-16:31",
+        "zone": "Europe/Brussels",
+        "name": "Brussels"
+    },
+    {
+        "gmt": "GMT-17:31",
+        "zone": "Europe/Sofia",
+        "name": "Sofia"
+    },
+    {
+        "gmt": "GMT-12:31",
+        "zone": "Atlantic/Bermuda",
+        "name": "Bermuda"
+    },
+    {
+        "gmt": "GMT-23:31",
+        "zone": "Asia/Brunei",
+        "name": "Brunei"
+    },
+    {
+        "gmt": "GMT-11:31",
+        "zone": "America/La_Paz",
+        "name": "La Paz"
+    },
+    {
+        "gmt": "GMT-13:31",
+        "zone": "America/Noronha",
+        "name": "Noronha"
+    },
+    {
+        "gmt": "GMT-12:31",
+        "zone": "America/Belem",
+        "name": "Belem"
+    },
+    {
+        "gmt": "GMT-12:31",
+        "zone": "America/Fortaleza",
+        "name": "Fortaleza"
+    },
+    {
+        "gmt": "GMT-12:31",
+        "zone": "America/Recife",
+        "name": "Recife"
+    },
+    {
+        "gmt": "GMT-12:31",
+        "zone": "America/Araguaina",
+        "name": "Araguaina"
+    },
+    {
+        "gmt": "GMT-12:31",
+        "zone": "America/Maceio",
+        "name": "Maceio"
+    },
+    {
+        "gmt": "GMT-12:31",
+        "zone": "America/Bahia",
+        "name": "Bahia"
+    },
+    {
+        "gmt": "GMT-12:31",
+        "zone": "America/Sao_Paulo",
+        "name": "São Paulo"
+    },
+    {
+        "gmt": "GMT-12:31",
+        "zone": "America/Campo_Grande",
+        "name": "Campo Grande"
+    },
+    {
+        "gmt": "GMT-11:31",
+        "zone": "America/Cuiaba",
+        "name": ""
+    },
+    {
+        "gmt": "GMT-12:31",
+        "zone": "America/Santarem",
+        "name": "Santarém"
+    },
+    {
+        "gmt": "GMT-11:31",
+        "zone": "America/Porto_Velho",
+        "name": "Porto Velho"
+    },
+    {
+        "gmt": "GMT-11:31",
+        "zone": "America/Boa_Vista",
+        "name": "Boa Vista"
+    },
+    {
+        "gmt": "GMT-11:31",
+        "zone": "America/Manaus",
+        "name": "Manaus"
+    },
+    {
+        "gmt": "GMT-10:31",
+        "zone": "America/Eirunepe",
+        "name": "Eirunepé"
+    },
+    {
+        "gmt": "GMT-10:31",
+        "zone": "America/Rio_Branco",
+        "name": "Rio Branco"
+    },
+    {
+        "gmt": "GMT-11:31",
+        "zone": "America/Nassau",
+        "name": "Nassau"
+    },
+    {
+        "gmt": "GMT-21:31",
+        "zone": "Asia/Thimphu",
+        "name": "Thimphu"
+    },
+    {
+        "gmt": "GMT-16:31",
+        "zone": "Europe/Minsk",
+        "name": "Minsk"
+    },
+    {
+        "gmt": "GMT-09:31",
+        "zone": "America/Belize",
+        "name": "Belize"
+    },
+    {
+        "gmt": "GMT-13:01",
+        "zone": "America/St_Johns",
+        "name": "St. John's"
+    },
+    {
+        "gmt": "GMT-12:31",
+        "zone": "America/Halifax",
+        "name": "Halifax"
+    },
+    {
+        "gmt": "GMT-12:31",
+        "zone": "America/Glace_Bay",
+        "name": "Glace Bay"
+    },
+    {
+        "gmt": "GMT-12:31",
+        "zone": "America/Moncton",
+        "name": "Moncton"
+    },
+    {
+        "gmt": "GMT-12:31",
+        "zone": "America/Goose_Bay",
+        "name": "Goose Bay"
+    },
+    {
+        "gmt": "GMT-11:31",
+        "zone": "America/Blanc-Sablon",
+        "name": "Blanc-Sablon"
+    },
+    {
+        "gmt": "GMT-11:31",
+        "zone": "America/Toronto",
+        "name": "Toronto"
+    },
+    {
+        "gmt": "GMT-11:31",
+        "zone": "America/Nipigon",
+        "name": "Nipigon"
+    },
+    {
+        "gmt": "GMT-11:31",
+        "zone": "America/Thunder_Bay",
+        "name": "Thunder Bay"
+    },
+    {
+        "gmt": "GMT-11:31",
+        "zone": "America/Iqaluit",
+        "name": "Iqaluit"
+    },
+    {
+        "gmt": "GMT-11:31",
+        "zone": "America/Pangnirtung",
+        "name": "Pangnirtung"
+    },
+    {
+        "gmt": "GMT-10:31",
+        "zone": "America/Atikokan",
+        "name": "Atikokan"
+    },
+    {
+        "gmt": "GMT-10:31",
+        "zone": "America/Winnipeg",
+        "name": "Winnipeg"
+    },
+    {
+        "gmt": "GMT-10:31",
+        "zone": "America/Rainy_River",
+        "name": "Rainy River"
+    },
+    {
+        "gmt": "GMT-10:31",
+        "zone": "America/Resolute",
+        "name": "Resolute"
+    },
+    {
+        "gmt": "GMT-10:31",
+        "zone": "America/Rankin_Inlet",
+        "name": "Rankin Inlet"
+    },
+    {
+        "gmt": "GMT-09:31",
+        "zone": "America/Regina",
+        "name": "Regina"
+    },
+    {
+        "gmt": "GMT-09:31",
+        "zone": "America/Swift_Current",
+        "name": "Swift Current"
+    },
+    {
+        "gmt": "GMT-09:31",
+        "zone": "America/Edmonton",
+        "name": "Edmonton"
+    },
+    {
+        "gmt": "GMT-09:31",
+        "zone": "America/Cambridge_Bay",
+        "name": "Cambridge Bay"
+    },
+    {
+        "gmt": "GMT-09:31",
+        "zone": "America/Yellowknife",
+        "name": "Yellowknife"
+    },
+    {
+        "gmt": "GMT-09:31",
+        "zone": "America/Inuvik",
+        "name": "Inuvik"
+    },
+    {
+        "gmt": "GMT-08:31",
+        "zone": "America/Creston",
+        "name": "Creston"
+    },
+    {
+        "gmt": "GMT-08:31",
+        "zone": "America/Dawson_Creek",
+        "name": "Dawson Creek"
+    },
+    {
+        "gmt": "GMT-08:31",
+        "zone": "America/Fort_Nelson",
+        "name": "Fort Nelson"
+    },
+    {
+        "gmt": "GMT-08:31",
+        "zone": "America/Vancouver",
+        "name": "Vancouver"
+    },
+    {
+        "gmt": "GMT-08:31",
+        "zone": "America/Whitehorse",
+        "name": "Whitehorse"
+    },
+    {
+        "gmt": "GMT-08:31",
+        "zone": "America/Dawson",
+        "name": "Dawson"
+    },
+    {
+        "gmt": "GMT-22:01",
+        "zone": "Indian/Cocos",
+        "name": "Cocos Island"
+    },
+    {
+        "gmt": "GMT-16:31",
+        "zone": "Europe/Zurich",
+        "name": "Zurich"
+    },
+    {
+        "gmt": "GMT-15:31",
+        "zone": "Africa/Abidjan",
+        "name": "Abidjan"
+    },
+    {
+        "gmt": "GMT-05:31",
+        "zone": "Pacific/Rarotonga",
+        "name": "Rarotonga"
+    },
+    {
+        "gmt": "GMT-12:31",
+        "zone": "America/Santiago",
+        "name": "Santiago"
+    },
+    {
+        "gmt": "GMT-12:31",
+        "zone": "America/Punta_Arenas",
+        "name": "Punta Arenas"
+    },
+    {
+        "gmt": "GMT-10:31",
+        "zone": "Pacific/Easter",
+        "name": "Easter Island"
+    },
+    {
+        "gmt": "GMT-23:31",
+        "zone": "Asia/Shanghai",
+        "name": "Shanghai"
+    },
+    {
+        "gmt": "GMT-21:31",
+        "zone": "Asia/Urumqi",
+        "name": "Urumqi"
+    },
+    {
+        "gmt": "GMT-10:31",
+        "zone": "America/Bogota",
+        "name": "Bogotá"
+    },
+    {
+        "gmt": "GMT-09:31",
+        "zone": "America/Costa_Rica",
+        "name": "Costa Rica"
+    },
+    {
+        "gmt": "GMT-11:31",
+        "zone": "America/Havana",
+        "name": "Havana"
+    },
+    {
+        "gmt": "GMT-14:31",
+        "zone": "Atlantic/Cape_Verde",
+        "name": "Cape Verde"
+    },
+    {
+        "gmt": "GMT-11:31",
+        "zone": "America/Curacao",
+        "name": "Curacao"
+    },
+    {
+        "gmt": "GMT-22:31",
+        "zone": "Indian/Christmas",
+        "name": "Christmas Island"
+    },
+    {
+        "gmt": "GMT-17:31",
+        "zone": "Asia/Nicosia",
+        "name": "Nicosia"
+    },
+    {
+        "gmt": "GMT-17:31",
+        "zone": "Asia/Famagusta",
+        "name": "Famagusta"
+    },
+    {
+        "gmt": "GMT-16:31",
+        "zone": "Europe/Prague",
+        "name": "Prague"
+    },
+    {
+        "gmt": "GMT-16:31",
+        "zone": "Europe/Berlin",
+        "name": "Berlin"
+    },
+    {
+        "gmt": "GMT-16:31",
+        "zone": "Europe/Copenhagen",
+        "name": "Copenhagen"
+    },
+    {
+        "gmt": "GMT-11:31",
+        "zone": "America/Santo_Domingo",
+        "name": "Santo Domingo"
+    },
+    {
+        "gmt": "GMT-16:31",
+        "zone": "Africa/Algiers",
+        "name": "Algiers"
+    },
+    {
+        "gmt": "GMT-10:31",
+        "zone": "America/Guayaquil",
+        "name": "Guayaquil"
+    },
+    {
+        "gmt": "GMT-09:31",
+        "zone": "Pacific/Galapagos",
+        "name": "Galápagos"
+    },
+    {
+        "gmt": "GMT-17:31",
+        "zone": "Europe/Tallinn",
+        "name": "Tallinn"
+    },
+    {
+        "gmt": "GMT-17:31",
+        "zone": "Africa/Cairo",
+        "name": "Cairo"
+    },
+    {
+        "gmt": "GMT-16:31",
+        "zone": "Africa/El_Aaiun",
+        "name": "El Aaiún"
+    },
+    {
+        "gmt": "GMT-16:31",
+        "zone": "Europe/Madrid",
+        "name": "Madrid"
+    },
+    {
+        "gmt": "GMT-16:31",
+        "zone": "Africa/Ceuta",
+        "name": "Ceuta"
+    },
+    {
+        "gmt": "GMT-15:31",
+        "zone": "Atlantic/Canary",
+        "name": "Canary Island"
+    },
+    {
+        "gmt": "GMT-17:31",
+        "zone": "Europe/Helsinki",
+        "name": "Helsinki"
+    },
+    {
+        "gmt": "GMT-03:31",
+        "zone": "Pacific/Fiji",
+        "name": "Fiji"
+    },
+    {
+        "gmt": "GMT-12:31",
+        "zone": "Atlantic/Stanley",
+        "name": "Stanley"
+    },
+    {
+        "gmt": "GMT-01:31",
+        "zone": "Pacific/Chuuk",
+        "name": "Chuuk"
+    },
+    {
+        "gmt": "GMT-02:31",
+        "zone": "Pacific/Pohnpei",
+        "name": "Pohnpei"
+    },
+    {
+        "gmt": "GMT-02:31",
+        "zone": "Pacific/Kosrae",
+        "name": "Kosrae"
+    },
+    {
+        "gmt": "GMT-15:31",
+        "zone": "Atlantic/Faroe",
+        "name": "Faroe Island"
+    },
+    {
+        "gmt": "GMT-16:31",
+        "zone": "Europe/Paris",
+        "name": "Paris"
+    },
+    {
+        "gmt": "GMT-15:31",
+        "zone": "Europe/London",
+        "name": "London"
+    },
+    {
+        "gmt": "GMT-19:31",
+        "zone": "Asia/Tbilisi",
+        "name": "Tbilisi"
+    },
+    {
+        "gmt": "GMT-12:31",
+        "zone": "America/Cayenne",
+        "name": "Cayenne"
+    },
+    {
+        "gmt": "GMT-15:31",
+        "zone": "Africa/Accra",
+        "name": "Accra"
+    },
+    {
+        "gmt": "GMT-16:31",
+        "zone": "Europe/Gibraltar",
+        "name": "Gibraltar"
+    },
+    {
+        "gmt": "GMT-13:31",
+        "zone": "America/Godthab",
+        "name": "Godthåb"
+    },
+    {
+        "gmt": "GMT-15:31",
+        "zone": "America/Danmarkshavn",
+        "name": "Danmarkshavn"
+    },
+    {
+        "gmt": "GMT-13:31",
+        "zone": "America/Scoresbysund",
+        "name": "Scoresbysund"
+    },
+    {
+        "gmt": "GMT-12:31",
+        "zone": "America/Thule",
+        "name": "Thule"
+    },
+    {
+        "gmt": "GMT-17:31",
+        "zone": "Europe/Athens",
+        "name": "Athens"
+    },
+    {
+        "gmt": "GMT-13:31",
+        "zone": "Atlantic/South_Georgia",
+        "name": "South Georgia"
+    },
+    {
+        "gmt": "GMT-09:31",
+        "zone": "America/Guatemala",
+        "name": "Guatemala"
+    },
+    {
+        "gmt": "GMT-01:31",
+        "zone": "Pacific/Guam",
+        "name": "Guam"
+    },
+    {
+        "gmt": "GMT-15:31",
+        "zone": "Africa/Bissau",
+        "name": "Bissau"
+    },
+    {
+        "gmt": "GMT-11:31",
+        "zone": "America/Guyana",
+        "name": "Guyana"
+    },
+    {
+        "gmt": "GMT-23:31",
+        "zone": "Asia/Hong_Kong",
+        "name": "Hong Kong"
+    },
+    {
+        "gmt": "GMT-09:31",
+        "zone": "America/Tegucigalpa",
+        "name": "Tegucigalpa"
+    },
+    {
+        "gmt": "GMT-11:31",
+        "zone": "America/Port-au-Prince",
+        "name": "Port-au-Prince"
+    },
+    {
+        "gmt": "GMT-16:31",
+        "zone": "Europe/Budapest",
+        "name": "Budapest"
+    },
+    {
+        "gmt": "GMT-22:31",
+        "zone": "Asia/Jakarta",
+        "name": "Jakarta"
+    },
+    {
+        "gmt": "GMT-22:31",
+        "zone": "Asia/Pontianak",
+        "name": "Pontianak"
+    },
+    {
+        "gmt": "GMT-23:31",
+        "zone": "Asia/Makassar",
+        "name": "Makassar"
+    },
+    {
+        "gmt": "GMT-00:31",
+        "zone": "Asia/Jayapura",
+        "name": "Jayapura"
+    },
+    {
+        "gmt": "GMT-15:31",
+        "zone": "Europe/Dublin",
+        "name": "Dublin"
+    },
+    {
+        "gmt": "GMT-17:31",
+        "zone": "Asia/Jerusalem",
+        "name": "Jerusalem"
+    },
+    {
+        "gmt": "GMT-21:01",
+        "zone": "Asia/Kolkata",
+        "name": "Kolkata"
+    },
+    {
+        "gmt": "GMT-21:31",
+        "zone": "Indian/Chagos",
+        "name": "Chagos Island"
+    },
+    {
+        "gmt": "GMT-18:31",
+        "zone": "Asia/Baghdad",
+        "name": "Baghdad"
+    },
+    {
+        "gmt": "GMT-19:01",
+        "zone": "Asia/Tehran",
+        "name": "Tehran"
+    },
+    {
+        "gmt": "GMT-15:31",
+        "zone": "Atlantic/Reykjavik",
+        "name": "Reykjavik"
+    },
+    {
+        "gmt": "GMT-16:31",
+        "zone": "Europe/Rome",
+        "name": "Rome"
+    },
+    {
+        "gmt": "GMT-10:31",
+        "zone": "America/Jamaica",
+        "name": "Jamaica"
+    },
+    {
+        "gmt": "GMT-18:31",
+        "zone": "Asia/Amman",
+        "name": "Amman"
+    },
+    {
+        "gmt": "GMT-00:31",
+        "zone": "Asia/Tokyo",
+        "name": "Tokyo"
+    },
+    {
+        "gmt": "GMT-18:31",
+        "zone": "Africa/Nairobi",
+        "name": "Nairobi"
+    },
+    {
+        "gmt": "GMT-21:31",
+        "zone": "Asia/Bishkek",
+        "name": "Bishkek"
+    },
+    {
+        "gmt": "GMT-03:31",
+        "zone": "Pacific/Tarawa",
+        "name": "Tarawa"
+    },
+    {
+        "gmt": "GMT-04:31",
+        "zone": "Pacific/Enderbury",
+        "name": "Enderbury"
+    },
+    {
+        "gmt": "GMT-05:31",
+        "zone": "Pacific/Kiritimati",
+        "name": "Kiritimati"
+    },
+    {
+        "gmt": "GMT-00:31",
+        "zone": "Asia/Pyongyang",
+        "name": "Pyongyang"
+    },
+    {
+        "gmt": "GMT-00:31",
+        "zone": "Asia/Seoul",
+        "name": "Seoul"
+    },
+    {
+        "gmt": "GMT-20:31",
+        "zone": "Asia/Almaty",
+        "name": "Almaty"
+    },
+    {
+        "gmt": "GMT-20:31",
+        "zone": "Asia/Qyzylorda",
+        "name": "Qyzylorda"
+    },
+    {
+        "gmt": "GMT-20:31",
+        "zone": "Asia/Qostanay",
+        "name": "Qostanay"
+    },
+    {
+        "gmt": "GMT-20:31",
+        "zone": "Asia/Aqtobe",
+        "name": "Aqtobe"
+    },
+    {
+        "gmt": "GMT-20:31",
+        "zone": "Asia/Aqtau",
+        "name": "Aqtau"
+    },
+    {
+        "gmt": "GMT-20:31",
+        "zone": "Asia/Atyrau",
+        "name": "Atyrau"
+    },
+    {
+        "gmt": "GMT-20:31",
+        "zone": "Asia/Oral",
+        "name": "Oral"
+    },
+    {
+        "gmt": "GMT-17:31",
+        "zone": "Asia/Beirut",
+        "name": "Beirut"
+    },
+    {
+        "gmt": "GMT-21:01",
+        "zone": "Asia/Colombo",
+        "name": "Colombo"
+    },
+    {
+        "gmt": "GMT-15:31",
+        "zone": "Africa/Monrovia",
+        "name": "Monrovia"
+    },
+    {
+        "gmt": "GMT-17:31",
+        "zone": "Europe/Vilnius",
+        "name": "Vilnius"
+    },
+    {
+        "gmt": "GMT-16:31",
+        "zone": "Europe/Luxembourg",
+        "name": "Luxembourg"
+    },
+    {
+        "gmt": "GMT-17:31",
+        "zone": "Europe/Riga",
+        "name": "Riga"
+    },
+    {
+        "gmt": "GMT-17:31",
+        "zone": "Africa/Tripoli",
+        "name": "Tripoli"
+    },
+    {
+        "gmt": "GMT-16:31",
+        "zone": "Africa/Casablanca",
+        "name": "Casablanca"
+    },
+    {
+        "gmt": "GMT-16:31",
+        "zone": "Europe/Monaco",
+        "name": "Monaco"
+    },
+    {
+        "gmt": "GMT-17:31",
+        "zone": "Europe/Chisinau",
+        "name": "Chisinau"
+    },
+    {
+        "gmt": "GMT-03:31",
+        "zone": "Pacific/Majuro",
+        "name": "Majuro"
+    },
+    {
+        "gmt": "GMT-03:31",
+        "zone": "Pacific/Kwajalein",
+        "name": "Kwajalein"
+    },
+    {
+        "gmt": "GMT-22:01",
+        "zone": "Asia/Yangon",
+        "name": "Yangon"
+    },
+    {
+        "gmt": "GMT-23:31",
+        "zone": "Asia/Ulaanbaatar",
+        "name": "Ulaanbaatar"
+    },
+    {
+        "gmt": "GMT-22:31",
+        "zone": "Asia/Hovd",
+        "name": "Hovd"
+    },
+    {
+        "gmt": "GMT-23:31",
+        "zone": "Asia/Choibalsan",
+        "name": "Choibalsan"
+    },
+    {
+        "gmt": "GMT-23:31",
+        "zone": "Asia/Macau",
+        "name": "Macau"
+    },
+    {
+        "gmt": "GMT-11:31",
+        "zone": "America/Martinique",
+        "name": "Martinique"
+    },
+    {
+        "gmt": "GMT-16:31",
+        "zone": "Europe/Malta",
+        "name": "Malta"
+    },
+    {
+        "gmt": "GMT-19:31",
+        "zone": "Indian/Mauritius",
+        "name": "Mauritius"
+    },
+    {
+        "gmt": "GMT-20:31",
+        "zone": "Indian/Maldives",
+        "name": "Maldives"
+    },
+    {
+        "gmt": "GMT-09:31",
+        "zone": "America/Mexico_City",
+        "name": "Mexico City"
+    },
+    {
+        "gmt": "GMT-10:31",
+        "zone": "America/Cancun",
+        "name": "Cancun"
+    },
+    {
+        "gmt": "GMT-09:31",
+        "zone": "America/Merida",
+        "name": "Merida"
+    },
+    {
+        "gmt": "GMT-09:31",
+        "zone": "America/Monterrey",
+        "name": "Monterrey"
+    },
+    {
+        "gmt": "GMT-10:31",
+        "zone": "America/Matamoros",
+        "name": "Matamoros"
+    },
+    {
+        "gmt": "GMT-08:31",
+        "zone": "America/Mazatlan",
+        "name": "Mazatlán"
+    },
+    {
+        "gmt": "GMT-09:31",
+        "zone": "America/Chihuahua",
+        "name": "Chihuahua"
+    },
+    {
+        "gmt": "GMT-10:31",
+        "zone": "America/Ojinaga",
+        "name": "Ojinaga"
+    },
+    {
+        "gmt": "GMT-08:31",
+        "zone": "America/Hermosillo",
+        "name": "Hermosillo"
+    },
+    {
+        "gmt": "GMT-08:31",
+        "zone": "America/Tijuana",
+        "name": "Tijuana"
+    },
+    {
+        "gmt": "GMT-09:31",
+        "zone": "America/Bahia_Banderas",
+        "name": "Bahia Banderas"
+    },
+    {
+        "gmt": "GMT-23:31",
+        "zone": "Asia/Kuala_Lumpur",
+        "name": "Kuala Lumpur"
+    },
+    {
+        "gmt": "GMT-23:31",
+        "zone": "Asia/Kuching",
+        "name": "Kuching"
+    },
+    {
+        "gmt": "GMT-17:31",
+        "zone": "Africa/Maputo",
+        "name": "Maputo"
+    },
+    {
+        "gmt": "GMT-17:31",
+        "zone": "Africa/Windhoek",
+        "name": "Windhoek"
+    },
+    {
+        "gmt": "GMT-02:31",
+        "zone": "Pacific/Noumea",
+        "name": "Noumea"
+    },
+    {
+        "gmt": "GMT-03:31",
+        "zone": "Pacific/Norfolk",
+        "name": "Norfolk"
+    },
+    {
+        "gmt": "GMT-16:31",
+        "zone": "Africa/Lagos",
+        "name": ""
+    },
+    {
+        "gmt": "GMT-09:31",
+        "zone": "America/Managua",
+        "name": "Managua"
+    },
+    {
+        "gmt": "GMT-16:31",
+        "zone": "Europe/Amsterdam",
+        "name": "Amsterdam"
+    },
+    {
+        "gmt": "GMT-16:31",
+        "zone": "Europe/Oslo",
+        "name": "Oslo"
+    },
+    {
+        "gmt": "GMT-21:16",
+        "zone": "Asia/Kathmandu",
+        "name": "Kathmandu"
+    },
+    {
+        "gmt": "GMT-03:31",
+        "zone": "Pacific/Nauru",
+        "name": "Nauru"
+    },
+    {
+        "gmt": "GMT-04:31",
+        "zone": "Pacific/Niue",
+        "name": "Niue"
+    },
+    {
+        "gmt": "GMT-04:31",
+        "zone": "Pacific/Auckland",
+        "name": "Auckland"
+    },
+    {
+        "gmt": "GMT-05:16",
+        "zone": "Pacific/Chatham",
+        "name": "Chatham Island"
+    },
+    {
+        "gmt": "GMT-10:31",
+        "zone": "America/Panama",
+        "name": "Panama"
+    },
+    {
+        "gmt": "GMT-10:31",
+        "zone": "America/Lima",
+        "name": "Lima"
+    },
+    {
+        "gmt": "GMT-05:31",
+        "zone": "Pacific/Tahiti",
+        "name": "Tahiti"
+    },
+    {
+        "gmt": "GMT-06:01",
+        "zone": "Pacific/Marquesas",
+        "name": "Marquesas Island"
+    },
+    {
+        "gmt": "GMT-06:31",
+        "zone": "Pacific/Gambier",
+        "name": "Gambier Island"
+    },
+    {
+        "gmt": "GMT-01:31",
+        "zone": "Pacific/Port_Moresby",
+        "name": "Port Moresby"
+    },
+    {
+        "gmt": "GMT-02:31",
+        "zone": "Pacific/Bougainville",
+        "name": "Bougainville"
+    },
+    {
+        "gmt": "GMT-23:31",
+        "zone": "Asia/Manila",
+        "name": "Manila"
+    },
+    {
+        "gmt": "GMT-20:31",
+        "zone": "Asia/Karachi",
+        "name": "Karachi"
+    },
+    {
+        "gmt": "GMT-16:31",
+        "zone": "Europe/Warsaw",
+        "name": "Warsaw"
+    },
+    {
+        "gmt": "GMT-13:31",
+        "zone": "America/Miquelon",
+        "name": "Miquelon"
+    },
+    {
+        "gmt": "GMT-07:31",
+        "zone": "Pacific/Pitcairn",
+        "name": "Pitcairn Island"
+    },
+    {
+        "gmt": "GMT-11:31",
+        "zone": "America/Puerto_Rico",
+        "name": "Puerto Rico"
+    },
+    {
+        "gmt": "GMT-17:31",
+        "zone": "Asia/Gaza",
+        "name": "Gaza"
+    },
+    {
+        "gmt": "GMT-17:31",
+        "zone": "Asia/Hebron",
+        "name": "Hebron"
+    },
+    {
+        "gmt": "GMT-15:31",
+        "zone": "Europe/Lisbon",
+        "name": "Lisbon"
+    },
+    {
+        "gmt": "GMT-15:31",
+        "zone": "Atlantic/Madeira",
+        "name": "Madeira"
+    },
+    {
+        "gmt": "GMT-14:31",
+        "zone": "Atlantic/Azores",
+        "name": "Azores"
+    },
+    {
+        "gmt": "GMT-00:31",
+        "zone": "Pacific/Palau",
+        "name": "Palau"
+    },
+    {
+        "gmt": "GMT-12:31",
+        "zone": "America/Asuncion",
+        "name": "Asuncion"
+    },
+    {
+        "gmt": "GMT-18:31",
+        "zone": "Asia/Qatar",
+        "name": "Qatar"
+    },
+    {
+        "gmt": "GMT-19:31",
+        "zone": "Indian/Reunion",
+        "name": "Reunion"
+    },
+    {
+        "gmt": "GMT-17:31",
+        "zone": "Europe/Bucharest",
+        "name": "Bucharest"
+    },
+    {
+        "gmt": "GMT-16:31",
+        "zone": "Europe/Belgrade",
+        "name": "Belgrade"
+    },
+    {
+        "gmt": "GMT-17:31",
+        "zone": "Europe/Kaliningrad",
+        "name": "Kaliningrad"
+    },
+    {
+        "gmt": "GMT-18:31",
+        "zone": "Europe/Moscow",
+        "name": "Moscow"
+    },
+    {
+        "gmt": "GMT-18:31",
+        "zone": "Europe/Simferopol",
+        "name": "Simferopol"
+    },
+    {
+        "gmt": "GMT-18:31",
+        "zone": "Europe/Kirov",
+        "name": "Kirov"
+    },
+    {
+        "gmt": "GMT-19:31",
+        "zone": "Europe/Astrakhan",
+        "name": "Astrakhan"
+    },
+    {
+        "gmt": "GMT-18:31",
+        "zone": "Europe/Volgograd",
+        "name": "Volgograd"
+    },
+    {
+        "gmt": "GMT-19:31",
+        "zone": "Europe/Saratov",
+        "name": "Saratov"
+    },
+    {
+        "gmt": "GMT-19:31",
+        "zone": "Europe/Ulyanovsk",
+        "name": "Ulyanovsk"
+    },
+    {
+        "gmt": "GMT-19:31",
+        "zone": "Europe/Samara",
+        "name": "Samara"
+    },
+    {
+        "gmt": "GMT-20:31",
+        "zone": "Asia/Yekaterinburg",
+        "name": "Yekaterinburg"
+    },
+    {
+        "gmt": "GMT-21:31",
+        "zone": "Asia/Omsk",
+        "name": "Omsk"
+    },
+    {
+        "gmt": "GMT-22:31",
+        "zone": "Asia/Novosibirsk",
+        "name": "Novosibirsk"
+    },
+    {
+        "gmt": "GMT-22:31",
+        "zone": "Asia/Barnaul",
+        "name": "Barnaul"
+    },
+    {
+        "gmt": "GMT-22:31",
+        "zone": "Asia/Tomsk",
+        "name": "Tomsk"
+    },
+    {
+        "gmt": "GMT-22:31",
+        "zone": "Asia/Novokuznetsk",
+        "name": "Novokuznetsk"
+    },
+    {
+        "gmt": "GMT-22:31",
+        "zone": "Asia/Krasnoyarsk",
+        "name": "Krasnoyarsk"
+    },
+    {
+        "gmt": "GMT-23:31",
+        "zone": "Asia/Irkutsk",
+        "name": "Irkutsk"
+    },
+    {
+        "gmt": "GMT-00:31",
+        "zone": "Asia/Chita",
+        "name": "Chita"
+    },
+    {
+        "gmt": "GMT-00:31",
+        "zone": "Asia/Yakutsk",
+        "name": "Yakutsk"
+    },
+    {
+        "gmt": "GMT-00:31",
+        "zone": "Asia/Khandyga",
+        "name": "Khandyga"
+    },
+    {
+        "gmt": "GMT-01:31",
+        "zone": "Asia/Vladivostok",
+        "name": "Vladivostok"
+    },
+    {
+        "gmt": "GMT-01:31",
+        "zone": "Asia/Ust-Nera",
+        "name": "Ust-Nera"
+    },
+    {
+        "gmt": "GMT-02:31",
+        "zone": "Asia/Magadan",
+        "name": "Magadan"
+    },
+    {
+        "gmt": "GMT-02:31",
+        "zone": "Asia/Sakhalin",
+        "name": "Sakhalin"
+    },
+    {
+        "gmt": "GMT-02:31",
+        "zone": "Asia/Srednekolymsk",
+        "name": "Srednekolymsk"
+    },
+    {
+        "gmt": "GMT-03:31",
+        "zone": "Asia/Kamchatka",
+        "name": "Kamchatka"
+    },
+    {
+        "gmt": "GMT-03:31",
+        "zone": "Asia/Anadyr",
+        "name": "Anadyr"
+    },
+    {
+        "gmt": "GMT-18:31",
+        "zone": "Asia/Riyadh",
+        "name": "Riyadh"
+    },
+    {
+        "gmt": "GMT-02:31",
+        "zone": "Pacific/Guadalcanal",
+        "name": "Guadalcanal"
+    },
+    {
+        "gmt": "GMT-19:31",
+        "zone": "Indian/Mahe",
+        "name": "Mahe"
+    },
+    {
+        "gmt": "GMT-17:31",
+        "zone": "Africa/Khartoum",
+        "name": "Khartoum"
+    },
+    {
+        "gmt": "GMT-16:31",
+        "zone": "Europe/Stockholm",
+        "name": "Stockholm"
+    },
+    {
+        "gmt": "GMT-23:31",
+        "zone": "Asia/Singapore",
+        "name": "Singapore"
+    },
+    {
+        "gmt": "GMT-12:31",
+        "zone": "America/Paramaribo",
+        "name": "Paramaribo"
+    },
+    {
+        "gmt": "GMT-17:31",
+        "zone": "Africa/Juba",
+        "name": "Juba"
+    },
+    {
+        "gmt": "GMT-15:31",
+        "zone": "Africa/Sao_Tome",
+        "name": "Sao Tome"
+    },
+    {
+        "gmt": "GMT-09:31",
+        "zone": "America/El_Salvador",
+        "name": "El Salvador"
+    },
+    {
+        "gmt": "GMT-18:31",
+        "zone": "Asia/Damascus",
+        "name": "Damascus"
+    },
+    {
+        "gmt": "GMT-11:31",
+        "zone": "America/Grand_Turk",
+        "name": "Grand Turk"
+    },
+    {
+        "gmt": "GMT-16:31",
+        "zone": "Africa/Ndjamena",
+        "name": "N’Djamena"
+    },
+    {
+        "gmt": "GMT-20:31",
+        "zone": "Indian/Kerguelen",
+        "name": "Kerguelen"
+    },
+    {
+        "gmt": "GMT-22:31",
+        "zone": "Asia/Bangkok",
+        "name": "Bangkok"
+    },
+    {
+        "gmt": "GMT-20:31",
+        "zone": "Asia/Dushanbe",
+        "name": "Dushanbe"
+    },
+    {
+        "gmt": "GMT-04:31",
+        "zone": "Pacific/Fakaofo",
+        "name": "Fakaofo"
+    },
+    {
+        "gmt": "GMT-00:31",
+        "zone": "Asia/Dili",
+        "name": "Dili"
+    },
+    {
+        "gmt": "GMT-20:31",
+        "zone": "Asia/Ashgabat",
+        "name": "Ashgabat"
+    },
+    {
+        "gmt": "GMT-16:31",
+        "zone": "Africa/Tunis",
+        "name": "Tunis"
+    },
+    {
+        "gmt": "GMT-04:31",
+        "zone": "Pacific/Tongatapu",
+        "name": "Tongatapu"
+    },
+    {
+        "gmt": "GMT-18:31",
+        "zone": "Europe/Istanbul",
+        "name": "Istanbul"
+    },
+    {
+        "gmt": "GMT-11:31",
+        "zone": "America/Port_of_Spain",
+        "name": "Port of Spain"
+    },
+    {
+        "gmt": "GMT-03:31",
+        "zone": "Pacific/Funafuti",
+        "name": "Funafuti"
+    },
+    {
+        "gmt": "GMT-23:31",
+        "zone": "Asia/Taipei",
+        "name": "Taipei"
+    },
+    {
+        "gmt": "GMT-17:31",
+        "zone": "Europe/Kiev",
+        "name": "Kiev"
+    },
+    {
+        "gmt": "GMT-17:31",
+        "zone": "Europe/Uzhgorod",
+        "name": "Uzhgorod"
+    },
+    {
+        "gmt": "GMT-17:31",
+        "zone": "Europe/Zaporozhye",
+        "name": "Zaporozhye"
+    },
+    {
+        "gmt": "GMT-03:31",
+        "zone": "Pacific/Wake",
+        "name": "Wake"
+    },
+    {
+        "gmt": "GMT-11:31",
+        "zone": "America/New_York",
+        "name": "New York"
+    },
+    {
+        "gmt": "GMT-11:31",
+        "zone": "America/Detroit",
+        "name": "Detroit"
+    },
+    {
+        "gmt": "GMT-11:31",
+        "zone": "America/Kentucky/Louisville",
+        "name": "Louisville"
+    },
+    {
+        "gmt": "GMT-11:31",
+        "zone": "America/Kentucky/Monticello",
+        "name": "Monticello"
+    },
+    {
+        "gmt": "GMT-11:31",
+        "zone": "America/Indiana/Indianapolis",
+        "name": "Indianapolis"
+    },
+    {
+        "gmt": "GMT-11:31",
+        "zone": "America/Indiana/Vincennes",
+        "name": "Vincennes"
+    },
+    {
+        "gmt": "GMT-11:31",
+        "zone": "America/Indiana/Winamac",
+        "name": "Winamac"
+    },
+    {
+        "gmt": "GMT-11:31",
+        "zone": "America/Indiana/Marengo",
+        "name": "Marengo"
+    },
+    {
+        "gmt": "GMT-11:31",
+        "zone": "America/Indiana/Petersburg",
+        "name": "Petersburg"
+    },
+    {
+        "gmt": "GMT-11:31",
+        "zone": "America/Indiana/Vevay",
+        "name": "Vevay"
+    },
+    {
+        "gmt": "GMT-10:31",
+        "zone": "America/Chicago",
+        "name": "Chicago"
+    },
+    {
+        "gmt": "GMT-10:31",
+        "zone": "America/Indiana/Tell_City",
+        "name": "Tell City"
+    },
+    {
+        "gmt": "GMT-10:31",
+        "zone": "America/Indiana/Knox",
+        "name": "Knox"
+    },
+    {
+        "gmt": "GMT-10:31",
+        "zone": "America/Menominee",
+        "name": "Menominee"
+    },
+    {
+        "gmt": "GMT-10:31",
+        "zone": "America/North_Dakota/Center",
+        "name": "Center, North Dakota"
+    },
+    {
+        "gmt": "GMT-10:31",
+        "zone": "America/North_Dakota/New_Salem",
+        "name": "New Salem, North Dakota"
+    },
+    {
+        "gmt": "GMT-10:31",
+        "zone": "America/North_Dakota/Beulah",
+        "name": "Beulah, North Dakota"
+    },
+    {
+        "gmt": "GMT-09:31",
+        "zone": "America/Denver",
+        "name": "Denver"
+    },
+    {
+        "gmt": "GMT-09:31",
+        "zone": "America/Boise",
+        "name": "Boise"
+    },
+    {
+        "gmt": "GMT-08:31",
+        "zone": "America/Phoenix",
+        "name": "Phoenix"
+    },
+    {
+        "gmt": "GMT-08:31",
+        "zone": "America/Los_Angeles",
+        "name": "Los Angeles"
+    },
+    {
+        "gmt": "GMT-07:31",
+        "zone": "America/Anchorage",
+        "name": "Anchorage"
+    },
+    {
+        "gmt": "GMT-07:31",
+        "zone": "America/Juneau",
+        "name": "Juneau"
+    },
+    {
+        "gmt": "GMT-07:31",
+        "zone": "America/Sitka",
+        "name": "Sitka"
+    },
+    {
+        "gmt": "GMT-07:31",
+        "zone": "America/Metlakatla",
+        "name": "Metlakatla"
+    },
+    {
+        "gmt": "GMT-07:31",
+        "zone": "America/Yakutat",
+        "name": "Yakutat"
+    },
+    {
+        "gmt": "GMT-07:31",
+        "zone": "America/Nome",
+        "name": "Nome"
+    },
+    {
+        "gmt": "GMT-06:31",
+        "zone": "America/Adak",
+        "name": "Adak"
+    },
+    {
+        "gmt": "GMT-05:31",
+        "zone": "Pacific/Honolulu",
+        "name": "Honolulu"
+    },
+    {
+        "gmt": "GMT-12:31",
+        "zone": "America/Montevideo",
+        "name": "Montevideo"
+    },
+    {
+        "gmt": "GMT-20:31",
+        "zone": "Asia/Samarkand",
+        "name": "Samarkand"
+    },
+    {
+        "gmt": "GMT-20:31",
+        "zone": "Asia/Tashkent",
+        "name": "Tashkent"
+    },
+    {
+        "gmt": "GMT-11:31",
+        "zone": "America/Caracas",
+        "name": "Caracas"
+    },
+    {
+        "gmt": "GMT-22:31",
+        "zone": "Asia/Ho_Chi_Minh",
+        "name": "Ho Chi Minh City"
+    },
+    {
+        "gmt": "GMT-02:31",
+        "zone": "Pacific/Efate",
+        "name": "Efate"
+    },
+    {
+        "gmt": "GMT-03:31",
+        "zone": "Pacific/Wallis",
+        "name": "Wallis"
+    },
+    {
+        "gmt": "GMT-04:31",
+        "zone": "Pacific/Apia",
+        "name": "Apia"
+    },
+    {
+        "gmt": "GMT-17:31",
+        "zone": "Africa/Johannesburg",
+        "name": "Johannesburg"
+    }
+]

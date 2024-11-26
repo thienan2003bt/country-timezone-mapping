@@ -1,0 +1,2153 @@
+[
+  {
+    "gmt": "GMT+07:00",
+    "zone": "Asia/Bangkok",
+    "name": "+07",
+    "country": {
+      "name": "Viet Nam",
+      "iso_code": "VN"
+    }
+  },
+  {
+    "gmt": "GMT+02:00",
+    "zone": "Africa/Maputo",
+    "name": "CAT",
+    "country": {
+      "name": "Zimbabwe",
+      "iso_code": "ZW"
+    }
+  },
+  {
+    "gmt": "GMT+02:00",
+    "zone": "Africa/Maputo",
+    "name": "CAT",
+    "country": {
+      "name": "Zambia",
+      "iso_code": "ZM"
+    }
+  },
+  {
+    "gmt": "GMT+03:00",
+    "zone": "Asia/Riyadh",
+    "name": "+03",
+    "country": {
+      "name": "Yemen",
+      "iso_code": "YE"
+    }
+  },
+  {
+    "gmt": "GMT+01:00",
+    "zone": "Africa/El_Aaiun",
+    "name": "+01",
+    "country": {
+      "name": "Western Sahara",
+      "iso_code": "EH"
+    }
+  },
+  {
+    "gmt": "GMT+12:00",
+    "zone": "Pacific/Tarawa",
+    "name": "+12",
+    "country": {
+      "name": "Wallis and Futuna",
+      "iso_code": "WF"
+    }
+  },
+  {
+    "gmt": "GMT-04:00",
+    "zone": "America/Puerto_Rico",
+    "name": "AST",
+    "country": {
+      "name": "Virgin Islands, U.s.",
+      "iso_code": "VI"
+    }
+  },
+  {
+    "gmt": "GMT-04:00",
+    "zone": "America/Puerto_Rico",
+    "name": "AST",
+    "country": {
+      "name": "Virgin Islands, British",
+      "iso_code": "VG"
+    }
+  },
+  {
+    "gmt": "GMT-04:00",
+    "zone": "America/Caracas",
+    "name": "-04",
+    "country": {
+      "name": "Venezuela",
+      "iso_code": "VE"
+    }
+  },
+  {
+    "gmt": "GMT+11:00",
+    "zone": "Pacific/Efate",
+    "name": "+11",
+    "country": {
+      "name": "Vanuatu",
+      "iso_code": "VU"
+    }
+  },
+  {
+    "gmt": "GMT+05:00",
+    "zone": "Asia/Samarkand",
+    "name": "+05",
+    "country": {
+      "name": "Uzbekistan",
+      "iso_code": "UZ"
+    }
+  },
+  {
+    "gmt": "GMT-03:00",
+    "zone": "America/Montevideo",
+    "name": "-03",
+    "country": {
+      "name": "Uruguay",
+      "iso_code": "UY"
+    }
+  },
+  {
+    "gmt": "GMT-11:00",
+    "zone": "Pacific/Pago_Pago",
+    "name": "SST",
+    "country": {
+      "name": "United States Minor Outlying Islands",
+      "iso_code": "UM"
+    }
+  },
+  {
+    "gmt": "GMT-10:00",
+    "zone": "America/Adak",
+    "name": "HST",
+    "country": {
+      "name": "United States",
+      "iso_code": "US"
+    }
+  },
+  {
+    "gmt": "GMT+00:00",
+    "zone": "Europe/London",
+    "name": "GMT",
+    "country": {
+      "name": "United Kingdom",
+      "iso_code": "GB"
+    }
+  },
+  {
+    "gmt": "GMT+04:00",
+    "zone": "Asia/Dubai",
+    "name": "+04",
+    "country": {
+      "name": "United Arab Emirates",
+      "iso_code": "AE"
+    }
+  },
+  {
+    "gmt": "GMT+02:00",
+    "zone": "Europe/Kyiv",
+    "name": "EET",
+    "country": {
+      "name": "Ukraine",
+      "iso_code": "UA"
+    }
+  },
+  {
+    "gmt": "GMT+03:00",
+    "zone": "Africa/Nairobi",
+    "name": "EAT",
+    "country": {
+      "name": "Uganda",
+      "iso_code": "UG"
+    }
+  },
+  {
+    "gmt": "GMT+12:00",
+    "zone": "Pacific/Tarawa",
+    "name": "+12",
+    "country": {
+      "name": "Tuvalu",
+      "iso_code": "TV"
+    }
+  },
+  {
+    "gmt": "GMT-05:00",
+    "zone": "America/Grand_Turk",
+    "name": "EST",
+    "country": {
+      "name": "Turks and Caicos Islands",
+      "iso_code": "TC"
+    }
+  },
+  {
+    "gmt": "GMT+05:00",
+    "zone": "Asia/Ashgabat",
+    "name": "+05",
+    "country": {
+      "name": "Turkmenistan",
+      "iso_code": "TM"
+    }
+  },
+  {
+    "gmt": "GMT+03:00",
+    "zone": "Europe/Istanbul",
+    "name": "+03",
+    "country": {
+      "name": "Turkey",
+      "iso_code": "TR"
+    }
+  },
+  {
+    "gmt": "GMT+01:00",
+    "zone": "Africa/Tunis",
+    "name": "CET",
+    "country": {
+      "name": "Tunisia",
+      "iso_code": "TN"
+    }
+  },
+  {
+    "gmt": "GMT-04:00",
+    "zone": "America/Puerto_Rico",
+    "name": "AST",
+    "country": {
+      "name": "Trinidad and Tobago",
+      "iso_code": "TT"
+    }
+  },
+  {
+    "gmt": "GMT+13:00",
+    "zone": "Pacific/Tongatapu",
+    "name": "+13",
+    "country": {
+      "name": "Tonga",
+      "iso_code": "TO"
+    }
+  },
+  {
+    "gmt": "GMT+13:00",
+    "zone": "Pacific/Fakaofo",
+    "name": "+13",
+    "country": {
+      "name": "Tokelau",
+      "iso_code": "TK"
+    }
+  },
+  {
+    "gmt": "GMT+00:00",
+    "zone": "Africa/Abidjan",
+    "name": "GMT",
+    "country": {
+      "name": "Togo",
+      "iso_code": "TG"
+    }
+  },
+  {
+    "gmt": "GMT+09:00",
+    "zone": "Asia/Dili",
+    "name": "+09",
+    "country": {
+      "name": "Timor-Leste",
+      "iso_code": "TL"
+    }
+  },
+  {
+    "gmt": "GMT+07:00",
+    "zone": "Asia/Bangkok",
+    "name": "+07",
+    "country": {
+      "name": "Thailand",
+      "iso_code": "TH"
+    }
+  },
+  {
+    "gmt": "GMT+03:00",
+    "zone": "Africa/Nairobi",
+    "name": "EAT",
+    "country": {
+      "name": "Tanzania, United Republic of",
+      "iso_code": "TZ"
+    }
+  },
+  {
+    "gmt": "GMT+05:00",
+    "zone": "Asia/Dushanbe",
+    "name": "+05",
+    "country": {
+      "name": "Tajikistan",
+      "iso_code": "TJ"
+    }
+  },
+  {
+    "gmt": "GMT+08:00",
+    "zone": "Asia/Taipei",
+    "name": "CST",
+    "country": {
+      "name": "Taiwan, Province of China",
+      "iso_code": "TW"
+    }
+  },
+  {
+    "gmt": "GMT+03:00",
+    "zone": "Asia/Damascus",
+    "name": "+03",
+    "country": {
+      "name": "Syrian Arab Republic",
+      "iso_code": "SY"
+    }
+  },
+  {
+    "gmt": "GMT+01:00",
+    "zone": "Europe/Zurich",
+    "name": "CET",
+    "country": {
+      "name": "Switzerland",
+      "iso_code": "CH"
+    }
+  },
+  {
+    "gmt": "GMT+01:00",
+    "zone": "Europe/Berlin",
+    "name": "CET",
+    "country": {
+      "name": "Sweden",
+      "iso_code": "SE"
+    }
+  },
+  {
+    "gmt": "GMT+02:00",
+    "zone": "Africa/Johannesburg",
+    "name": "SAST",
+    "country": {
+      "name": "Swaziland",
+      "iso_code": "SZ"
+    }
+  },
+  {
+    "gmt": "GMT+01:00",
+    "zone": "Europe/Berlin",
+    "name": "CET",
+    "country": {
+      "name": "Svalbard and Jan Mayen",
+      "iso_code": "SJ"
+    }
+  },
+  {
+    "gmt": "GMT-03:00",
+    "zone": "America/Paramaribo",
+    "name": "-03",
+    "country": {
+      "name": "Suriname",
+      "iso_code": "SR"
+    }
+  },
+  {
+    "gmt": "GMT+02:00",
+    "zone": "Africa/Khartoum",
+    "name": "CAT",
+    "country": {
+      "name": "Sudan",
+      "iso_code": "SD"
+    }
+  },
+  {
+    "gmt": "GMT+05:30",
+    "zone": "Asia/Colombo",
+    "name": "+0530",
+    "country": {
+      "name": "Sri Lanka",
+      "iso_code": "LK"
+    }
+  },
+  {
+    "gmt": "GMT+01:00",
+    "zone": "Africa/Ceuta",
+    "name": "CET",
+    "country": {
+      "name": "Spain",
+      "iso_code": "ES"
+    }
+  },
+  {
+    "gmt": "GMT-02:00",
+    "zone": "Atlantic/South_Georgia",
+    "name": "-02",
+    "country": {
+      "name": "South Georgia and the South Sandwich Islands",
+      "iso_code": "GS"
+    }
+  },
+  {
+    "gmt": "GMT+02:00",
+    "zone": "Africa/Johannesburg",
+    "name": "SAST",
+    "country": {
+      "name": "South Africa",
+      "iso_code": "ZA"
+    }
+  },
+  {
+    "gmt": "GMT+03:00",
+    "zone": "Africa/Nairobi",
+    "name": "EAT",
+    "country": {
+      "name": "Somalia",
+      "iso_code": "SO"
+    }
+  },
+  {
+    "gmt": "GMT+11:00",
+    "zone": "Pacific/Guadalcanal",
+    "name": "+11",
+    "country": {
+      "name": "Solomon Islands",
+      "iso_code": "SB"
+    }
+  },
+  {
+    "gmt": "GMT+01:00",
+    "zone": "Europe/Belgrade",
+    "name": "CET",
+    "country": {
+      "name": "Slovenia",
+      "iso_code": "SI"
+    }
+  },
+  {
+    "gmt": "GMT+01:00",
+    "zone": "Europe/Prague",
+    "name": "CET",
+    "country": {
+      "name": "Slovakia",
+      "iso_code": "SK"
+    }
+  },
+  {
+    "gmt": "GMT+08:00",
+    "zone": "Asia/Singapore",
+    "name": "+08",
+    "country": {
+      "name": "Singapore",
+      "iso_code": "SG"
+    }
+  },
+  {
+    "gmt": "GMT+00:00",
+    "zone": "Africa/Abidjan",
+    "name": "GMT",
+    "country": {
+      "name": "Sierra Leone",
+      "iso_code": "SL"
+    }
+  },
+  {
+    "gmt": "GMT+04:00",
+    "zone": "Asia/Dubai",
+    "name": "+04",
+    "country": {
+      "name": "Seychelles",
+      "iso_code": "SC"
+    }
+  },
+  {
+    "gmt": "GMT+01:00",
+    "zone": "Europe/Prague",
+    "name": "Prague",
+    "country": {
+      "name": "Serbia and Montenegro",
+      "iso_code": "CS"
+    }
+  },
+  {
+    "gmt": "GMT+00:00",
+    "zone": "Africa/Abidjan",
+    "name": "GMT",
+    "country": {
+      "name": "Senegal",
+      "iso_code": "SN"
+    }
+  },
+  {
+    "gmt": "GMT+03:00",
+    "zone": "Asia/Riyadh",
+    "name": "+03",
+    "country": {
+      "name": "Saudi Arabia",
+      "iso_code": "SA"
+    }
+  },
+  {
+    "gmt": "GMT+00:00",
+    "zone": "Africa/Sao_Tome",
+    "name": "GMT",
+    "country": {
+      "name": "Sao Tome and Principe",
+      "iso_code": "ST"
+    }
+  },
+  {
+    "gmt": "GMT+01:00",
+    "zone": "Europe/Rome",
+    "name": "CET",
+    "country": {
+      "name": "San Marino",
+      "iso_code": "SM"
+    }
+  },
+  {
+    "gmt": "GMT+13:00",
+    "zone": "Pacific/Apia",
+    "name": "+13",
+    "country": {
+      "name": "Samoa",
+      "iso_code": "WS"
+    }
+  },
+  {
+    "gmt": "GMT-04:00",
+    "zone": "America/Puerto_Rico",
+    "name": "AST",
+    "country": {
+      "name": "Saint Vincent and the Grenadines",
+      "iso_code": "VC"
+    }
+  },
+  {
+    "gmt": "GMT-03:00",
+    "zone": "America/Miquelon",
+    "name": "-03",
+    "country": {
+      "name": "Saint Pierre and Miquelon",
+      "iso_code": "PM"
+    }
+  },
+  {
+    "gmt": "GMT-04:00",
+    "zone": "America/Puerto_Rico",
+    "name": "AST",
+    "country": {
+      "name": "Saint Lucia",
+      "iso_code": "LC"
+    }
+  },
+  {
+    "gmt": "GMT-04:00",
+    "zone": "America/Puerto_Rico",
+    "name": "AST",
+    "country": {
+      "name": "Saint Kitts and Nevis",
+      "iso_code": "KN"
+    }
+  },
+  {
+    "gmt": "GMT+00:00",
+    "zone": "Africa/Abidjan",
+    "name": "GMT",
+    "country": {
+      "name": "Saint Helena",
+      "iso_code": "SH"
+    }
+  },
+  {
+    "gmt": "GMT+02:00",
+    "zone": "Africa/Maputo",
+    "name": "CAT",
+    "country": {
+      "name": "Rwanda",
+      "iso_code": "RW"
+    }
+  },
+  {
+    "gmt": "GMT+12:00",
+    "zone": "Asia/Anadyr",
+    "name": "+12",
+    "country": {
+      "name": "Russian Federation",
+      "iso_code": "RU"
+    }
+  },
+  {
+    "gmt": "GMT+02:00",
+    "zone": "Europe/Bucharest",
+    "name": "EET",
+    "country": {
+      "name": "Romania",
+      "iso_code": "RO"
+    }
+  },
+  {
+    "gmt": "GMT+04:00",
+    "zone": "Asia/Dubai",
+    "name": "+04",
+    "country": {
+      "name": "Reunion",
+      "iso_code": "RE"
+    }
+  },
+  {
+    "gmt": "GMT+03:00",
+    "zone": "Asia/Qatar",
+    "name": "+03",
+    "country": {
+      "name": "Qatar",
+      "iso_code": "QA"
+    }
+  },
+  {
+    "gmt": "GMT-04:00",
+    "zone": "America/Puerto_Rico",
+    "name": "AST",
+    "country": {
+      "name": "Puerto Rico",
+      "iso_code": "PR"
+    }
+  },
+  {
+    "gmt": "GMT-01:00",
+    "zone": "Atlantic/Azores",
+    "name": "-01",
+    "country": {
+      "name": "Portugal",
+      "iso_code": "PT"
+    }
+  },
+  {
+    "gmt": "GMT+01:00",
+    "zone": "Europe/Warsaw",
+    "name": "CET",
+    "country": {
+      "name": "Poland",
+      "iso_code": "PL"
+    }
+  },
+  {
+    "gmt": "GMT-08:00",
+    "zone": "Pacific/Pitcairn",
+    "name": "-08",
+    "country": {
+      "name": "Pitcairn",
+      "iso_code": "PN"
+    }
+  },
+  {
+    "gmt": "GMT+08:00",
+    "zone": "Asia/Manila",
+    "name": "PST",
+    "country": {
+      "name": "Philippines",
+      "iso_code": "PH"
+    }
+  },
+  {
+    "gmt": "GMT-05:00",
+    "zone": "America/Lima",
+    "name": "-05",
+    "country": {
+      "name": "Peru",
+      "iso_code": "PE"
+    }
+  },
+  {
+    "gmt": "GMT-03:00",
+    "zone": "America/Asuncion",
+    "name": "-03",
+    "country": {
+      "name": "Paraguay",
+      "iso_code": "PY"
+    }
+  },
+  {
+    "gmt": "GMT+11:00",
+    "zone": "Pacific/Bougainville",
+    "name": "+11",
+    "country": {
+      "name": "Papua New Guinea",
+      "iso_code": "PG"
+    }
+  },
+  {
+    "gmt": "GMT-05:00",
+    "zone": "America/Panama",
+    "name": "EST",
+    "country": {
+      "name": "Panama",
+      "iso_code": "PA"
+    }
+  },
+  {
+    "gmt": "GMT+02:00",
+    "zone": "Asia/Gaza",
+    "name": "EET",
+    "country": {
+      "name": "Palestinian Territory, Occupied",
+      "iso_code": "PS"
+    }
+  },
+  {
+    "gmt": "GMT+09:00",
+    "zone": "Pacific/Palau",
+    "name": "+09",
+    "country": {
+      "name": "Palau",
+      "iso_code": "PW"
+    }
+  },
+  {
+    "gmt": "GMT+05:00",
+    "zone": "Asia/Karachi",
+    "name": "PKT",
+    "country": {
+      "name": "Pakistan",
+      "iso_code": "PK"
+    }
+  },
+  {
+    "gmt": "GMT+04:00",
+    "zone": "Asia/Dubai",
+    "name": "+04",
+    "country": {
+      "name": "Oman",
+      "iso_code": "OM"
+    }
+  },
+  {
+    "gmt": "GMT+01:00",
+    "zone": "Europe/Berlin",
+    "name": "CET",
+    "country": {
+      "name": "Norway",
+      "iso_code": "NO"
+    }
+  },
+  {
+    "gmt": "GMT+10:00",
+    "zone": "Pacific/Guam",
+    "name": "ChST",
+    "country": {
+      "name": "Northern Mariana Islands",
+      "iso_code": "MP"
+    }
+  },
+  {
+    "gmt": "GMT+12:00",
+    "zone": "Pacific/Norfolk",
+    "name": "+12",
+    "country": {
+      "name": "Norfolk Island",
+      "iso_code": "NF"
+    }
+  },
+  {
+    "gmt": "GMT-11:00",
+    "zone": "Pacific/Niue",
+    "name": "-11",
+    "country": {
+      "name": "Niue",
+      "iso_code": "NU"
+    }
+  },
+  {
+    "gmt": "GMT+01:00",
+    "zone": "Africa/Lagos",
+    "name": "WAT",
+    "country": {
+      "name": "Nigeria",
+      "iso_code": "NG"
+    }
+  },
+  {
+    "gmt": "GMT+01:00",
+    "zone": "Africa/Lagos",
+    "name": "WAT",
+    "country": {
+      "name": "Niger",
+      "iso_code": "NE"
+    }
+  },
+  {
+    "gmt": "GMT-06:00",
+    "zone": "America/Managua",
+    "name": "CST",
+    "country": {
+      "name": "Nicaragua",
+      "iso_code": "NI"
+    }
+  },
+  {
+    "gmt": "GMT+13:00",
+    "zone": "Pacific/Auckland",
+    "name": "NZDT",
+    "country": {
+      "name": "New Zealand",
+      "iso_code": "NZ"
+    }
+  },
+  {
+    "gmt": "GMT+11:00",
+    "zone": "Pacific/Noumea",
+    "name": "+11",
+    "country": {
+      "name": "New Caledonia",
+      "iso_code": "NC"
+    }
+  },
+  {
+    "gmt": "GMT-04:00",
+    "zone": "America/Curacao",
+    "name": "Curacao",
+    "country": {
+      "name": "Netherlands Antilles",
+      "iso_code": "AN"
+    }
+  },
+  {
+    "gmt": "GMT+01:00",
+    "zone": "Europe/Brussels",
+    "name": "CET",
+    "country": {
+      "name": "Netherlands",
+      "iso_code": "NL"
+    }
+  },
+  {
+    "gmt": "GMT+05:45",
+    "zone": "Asia/Kathmandu",
+    "name": "+0545",
+    "country": {
+      "name": "Nepal",
+      "iso_code": "NP"
+    }
+  },
+  {
+    "gmt": "GMT+12:00",
+    "zone": "Pacific/Nauru",
+    "name": "+12",
+    "country": {
+      "name": "Nauru",
+      "iso_code": "NR"
+    }
+  },
+  {
+    "gmt": "GMT+02:00",
+    "zone": "Africa/Windhoek",
+    "name": "CAT",
+    "country": {
+      "name": "Namibia",
+      "iso_code": "NA"
+    }
+  },
+  {
+    "gmt": "GMT+06:30",
+    "zone": "Asia/Yangon",
+    "name": "+0630",
+    "country": {
+      "name": "Myanmar",
+      "iso_code": "MM"
+    }
+  },
+  {
+    "gmt": "GMT+02:00",
+    "zone": "Africa/Maputo",
+    "name": "CAT",
+    "country": {
+      "name": "Mozambique",
+      "iso_code": "MZ"
+    }
+  },
+  {
+    "gmt": "GMT+01:00",
+    "zone": "Africa/Casablanca",
+    "name": "+01",
+    "country": {
+      "name": "Morocco",
+      "iso_code": "MA"
+    }
+  },
+  {
+    "gmt": "GMT-04:00",
+    "zone": "America/Puerto_Rico",
+    "name": "AST",
+    "country": {
+      "name": "Montserrat",
+      "iso_code": "MS"
+    }
+  },
+  {
+    "gmt": "GMT+07:00",
+    "zone": "Asia/Hovd",
+    "name": "+07",
+    "country": {
+      "name": "Mongolia",
+      "iso_code": "MN"
+    }
+  },
+  {
+    "gmt": "GMT+01:00",
+    "zone": "Europe/Paris",
+    "name": "CET",
+    "country": {
+      "name": "Monaco",
+      "iso_code": "MC"
+    }
+  },
+  {
+    "gmt": "GMT+02:00",
+    "zone": "Europe/Chisinau",
+    "name": "EET",
+    "country": {
+      "name": "Moldova, Republic of",
+      "iso_code": "MD"
+    }
+  },
+  {
+    "gmt": "GMT+11:00",
+    "zone": "Pacific/Guadalcanal",
+    "name": "+11",
+    "country": {
+      "name": "Micronesia, Federated States of",
+      "iso_code": "FM"
+    }
+  },
+  {
+    "gmt": "GMT-06:00",
+    "zone": "America/Bahia_Banderas",
+    "name": "CST",
+    "country": {
+      "name": "Mexico",
+      "iso_code": "MX"
+    }
+  },
+  {
+    "gmt": "GMT+03:00",
+    "zone": "Africa/Nairobi",
+    "name": "EAT",
+    "country": {
+      "name": "Mayotte",
+      "iso_code": "YT"
+    }
+  },
+  {
+    "gmt": "GMT+04:00",
+    "zone": "Indian/Mauritius",
+    "name": "+04",
+    "country": {
+      "name": "Mauritius",
+      "iso_code": "MU"
+    }
+  },
+  {
+    "gmt": "GMT+00:00",
+    "zone": "Africa/Abidjan",
+    "name": "GMT",
+    "country": {
+      "name": "Mauritania",
+      "iso_code": "MR"
+    }
+  },
+  {
+    "gmt": "GMT-04:00",
+    "zone": "America/Martinique",
+    "name": "AST",
+    "country": {
+      "name": "Martinique",
+      "iso_code": "MQ"
+    }
+  },
+  {
+    "gmt": "GMT+12:00",
+    "zone": "Pacific/Kwajalein",
+    "name": "+12",
+    "country": {
+      "name": "Marshall Islands",
+      "iso_code": "MH"
+    }
+  },
+  {
+    "gmt": "GMT+01:00",
+    "zone": "Europe/Malta",
+    "name": "CET",
+    "country": {
+      "name": "Malta",
+      "iso_code": "MT"
+    }
+  },
+  {
+    "gmt": "GMT+00:00",
+    "zone": "Africa/Abidjan",
+    "name": "GMT",
+    "country": {
+      "name": "Mali",
+      "iso_code": "ML"
+    }
+  },
+  {
+    "gmt": "GMT+05:00",
+    "zone": "Indian/Maldives",
+    "name": "+05",
+    "country": {
+      "name": "Maldives",
+      "iso_code": "MV"
+    }
+  },
+  {
+    "gmt": "GMT+08:00",
+    "zone": "Asia/Kuching",
+    "name": "+08",
+    "country": {
+      "name": "Malaysia",
+      "iso_code": "MY"
+    }
+  },
+  {
+    "gmt": "GMT+02:00",
+    "zone": "Africa/Maputo",
+    "name": "CAT",
+    "country": {
+      "name": "Malawi",
+      "iso_code": "MW"
+    }
+  },
+  {
+    "gmt": "GMT+03:00",
+    "zone": "Africa/Nairobi",
+    "name": "EAT",
+    "country": {
+      "name": "Madagascar",
+      "iso_code": "MG"
+    }
+  },
+  {
+    "gmt": "GMT+01:00",
+    "zone": "Europe/Belgrade",
+    "name": "CET",
+    "country": {
+      "name": "Macedonia, the Former Yugoslav Republic of",
+      "iso_code": "MK"
+    }
+  },
+  {
+    "gmt": "GMT+08:00",
+    "zone": "Asia/Macau",
+    "name": "CST",
+    "country": {
+      "name": "Macao",
+      "iso_code": "MO"
+    }
+  },
+  {
+    "gmt": "GMT+01:00",
+    "zone": "Europe/Brussels",
+    "name": "CET",
+    "country": {
+      "name": "Luxembourg",
+      "iso_code": "LU"
+    }
+  },
+  {
+    "gmt": "GMT+02:00",
+    "zone": "Europe/Vilnius",
+    "name": "EET",
+    "country": {
+      "name": "Lithuania",
+      "iso_code": "LT"
+    }
+  },
+  {
+    "gmt": "GMT+01:00",
+    "zone": "Europe/Zurich",
+    "name": "CET",
+    "country": {
+      "name": "Liechtenstein",
+      "iso_code": "LI"
+    }
+  },
+  {
+    "gmt": "GMT+02:00",
+    "zone": "Africa/Tripoli",
+    "name": "EET",
+    "country": {
+      "name": "Libyan Arab Jamahiriya",
+      "iso_code": "LY"
+    }
+  },
+  {
+    "gmt": "GMT+00:00",
+    "zone": "Africa/Monrovia",
+    "name": "GMT",
+    "country": {
+      "name": "Liberia",
+      "iso_code": "LR"
+    }
+  },
+  {
+    "gmt": "GMT+02:00",
+    "zone": "Africa/Johannesburg",
+    "name": "SAST",
+    "country": {
+      "name": "Lesotho",
+      "iso_code": "LS"
+    }
+  },
+  {
+    "gmt": "GMT+02:00",
+    "zone": "Asia/Beirut",
+    "name": "EET",
+    "country": {
+      "name": "Lebanon",
+      "iso_code": "LB"
+    }
+  },
+  {
+    "gmt": "GMT+02:00",
+    "zone": "Europe/Riga",
+    "name": "EET",
+    "country": {
+      "name": "Latvia",
+      "iso_code": "LV"
+    }
+  },
+  {
+    "gmt": "GMT+07:00",
+    "zone": "Asia/Bangkok",
+    "name": "+07",
+    "country": {
+      "name": "Lao People's Democratic Republic",
+      "iso_code": "LA"
+    }
+  },
+  {
+    "gmt": "GMT+06:00",
+    "zone": "Asia/Bishkek",
+    "name": "+06",
+    "country": {
+      "name": "Kyrgyzstan",
+      "iso_code": "KG"
+    }
+  },
+  {
+    "gmt": "GMT+03:00",
+    "zone": "Asia/Riyadh",
+    "name": "+03",
+    "country": {
+      "name": "Kuwait",
+      "iso_code": "KW"
+    }
+  },
+  {
+    "gmt": "GMT+09:00",
+    "zone": "Asia/Seoul",
+    "name": "KST",
+    "country": {
+      "name": "Korea, Republic of",
+      "iso_code": "KR"
+    }
+  },
+  {
+    "gmt": "GMT+09:00",
+    "zone": "Asia/Pyongyang",
+    "name": "KST",
+    "country": {
+      "name": "Korea, Democratic People's Republic of",
+      "iso_code": "KP"
+    }
+  },
+  {
+    "gmt": "GMT+13:00",
+    "zone": "Pacific/Kanton",
+    "name": "+13",
+    "country": {
+      "name": "Kiribati",
+      "iso_code": "KI"
+    }
+  },
+  {
+    "gmt": "GMT+03:00",
+    "zone": "Africa/Nairobi",
+    "name": "EAT",
+    "country": {
+      "name": "Kenya",
+      "iso_code": "KE"
+    }
+  },
+  {
+    "gmt": "GMT+05:00",
+    "zone": "Asia/Almaty",
+    "name": "+05",
+    "country": {
+      "name": "Kazakhstan",
+      "iso_code": "KZ"
+    }
+  },
+  {
+    "gmt": "GMT+03:00",
+    "zone": "Asia/Amman",
+    "name": "+03",
+    "country": {
+      "name": "Jordan",
+      "iso_code": "JO"
+    }
+  },
+  {
+    "gmt": "GMT+09:00",
+    "zone": "Asia/Tokyo",
+    "name": "JST",
+    "country": {
+      "name": "Japan",
+      "iso_code": "JP"
+    }
+  },
+  {
+    "gmt": "GMT-05:00",
+    "zone": "America/Jamaica",
+    "name": "EST",
+    "country": {
+      "name": "Jamaica",
+      "iso_code": "JM"
+    }
+  },
+  {
+    "gmt": "GMT+01:00",
+    "zone": "Europe/Rome",
+    "name": "CET",
+    "country": {
+      "name": "Italy",
+      "iso_code": "IT"
+    }
+  },
+  {
+    "gmt": "GMT+02:00",
+    "zone": "Asia/Jerusalem",
+    "name": "IST",
+    "country": {
+      "name": "Israel",
+      "iso_code": "IL"
+    }
+  },
+  {
+    "gmt": "GMT+00:00",
+    "zone": "Europe/Dublin",
+    "name": "GMT",
+    "country": {
+      "name": "Ireland",
+      "iso_code": "IE"
+    }
+  },
+  {
+    "gmt": "GMT+03:00",
+    "zone": "Asia/Baghdad",
+    "name": "+03",
+    "country": {
+      "name": "Iraq",
+      "iso_code": "IQ"
+    }
+  },
+  {
+    "gmt": "GMT+03:30",
+    "zone": "Asia/Tehran",
+    "name": "+0330",
+    "country": {
+      "name": "Iran, Islamic Republic of",
+      "iso_code": "IR"
+    }
+  },
+  {
+    "gmt": "GMT+07:00",
+    "zone": "Asia/Jakarta",
+    "name": "WIB",
+    "country": {
+      "name": "Indonesia",
+      "iso_code": "ID"
+    }
+  },
+  {
+    "gmt": "GMT+05:30",
+    "zone": "Asia/Kolkata",
+    "name": "IST",
+    "country": {
+      "name": "India",
+      "iso_code": "IN"
+    }
+  },
+  {
+    "gmt": "GMT+00:00",
+    "zone": "Africa/Abidjan",
+    "name": "GMT",
+    "country": {
+      "name": "Iceland",
+      "iso_code": "IS"
+    }
+  },
+  {
+    "gmt": "GMT+01:00",
+    "zone": "Europe/Budapest",
+    "name": "CET",
+    "country": {
+      "name": "Hungary",
+      "iso_code": "HU"
+    }
+  },
+  {
+    "gmt": "GMT+08:00",
+    "zone": "Asia/Hong_Kong",
+    "name": "HKT",
+    "country": {
+      "name": "Hong Kong",
+      "iso_code": "HK"
+    }
+  },
+  {
+    "gmt": "GMT-06:00",
+    "zone": "America/Tegucigalpa",
+    "name": "CST",
+    "country": {
+      "name": "Honduras",
+      "iso_code": "HN"
+    }
+  },
+  {
+    "gmt": "GMT+01:00",
+    "zone": "Europe/Rome",
+    "name": "CET",
+    "country": {
+      "name": "Holy See (Vatican City State)",
+      "iso_code": "VA"
+    }
+  },
+  {
+    "gmt": "GMT+11:00",
+    "zone": "Australia/Hobart",
+    "name": "Hobart",
+    "country": {
+      "name": "Heard Island and Mcdonald Islands",
+      "iso_code": "HM"
+    }
+  },
+  {
+    "gmt": "GMT-05:00",
+    "zone": "America/Port-au-Prince",
+    "name": "EST",
+    "country": {
+      "name": "Haiti",
+      "iso_code": "HT"
+    }
+  },
+  {
+    "gmt": "GMT-04:00",
+    "zone": "America/Guyana",
+    "name": "-04",
+    "country": {
+      "name": "Guyana",
+      "iso_code": "GY"
+    }
+  },
+  {
+    "gmt": "GMT+00:00",
+    "zone": "Africa/Bissau",
+    "name": "GMT",
+    "country": {
+      "name": "Guinea-Bissau",
+      "iso_code": "GW"
+    }
+  },
+  {
+    "gmt": "GMT+00:00",
+    "zone": "Africa/Abidjan",
+    "name": "GMT",
+    "country": {
+      "name": "Guinea",
+      "iso_code": "GN"
+    }
+  },
+  {
+    "gmt": "GMT-06:00",
+    "zone": "America/Guatemala",
+    "name": "CST",
+    "country": {
+      "name": "Guatemala",
+      "iso_code": "GT"
+    }
+  },
+  {
+    "gmt": "GMT+10:00",
+    "zone": "Pacific/Guam",
+    "name": "ChST",
+    "country": {
+      "name": "Guam",
+      "iso_code": "GU"
+    }
+  },
+  {
+    "gmt": "GMT-04:00",
+    "zone": "America/Puerto_Rico",
+    "name": "AST",
+    "country": {
+      "name": "Guadeloupe",
+      "iso_code": "GP"
+    }
+  },
+  {
+    "gmt": "GMT-04:00",
+    "zone": "America/Puerto_Rico",
+    "name": "AST",
+    "country": {
+      "name": "Grenada",
+      "iso_code": "GD"
+    }
+  },
+  {
+    "gmt": "GMT+00:00",
+    "zone": "America/Danmarkshavn",
+    "name": "GMT",
+    "country": {
+      "name": "Greenland",
+      "iso_code": "GL"
+    }
+  },
+  {
+    "gmt": "GMT+02:00",
+    "zone": "Europe/Athens",
+    "name": "EET",
+    "country": {
+      "name": "Greece",
+      "iso_code": "GR"
+    }
+  },
+  {
+    "gmt": "GMT+01:00",
+    "zone": "Europe/Gibraltar",
+    "name": "CET",
+    "country": {
+      "name": "Gibraltar",
+      "iso_code": "GI"
+    }
+  },
+  {
+    "gmt": "GMT+00:00",
+    "zone": "Africa/Abidjan",
+    "name": "GMT",
+    "country": {
+      "name": "Ghana",
+      "iso_code": "GH"
+    }
+  },
+  {
+    "gmt": "GMT+01:00",
+    "zone": "Europe/Berlin",
+    "name": "CET",
+    "country": {
+      "name": "Germany",
+      "iso_code": "DE"
+    }
+  },
+  {
+    "gmt": "GMT+04:00",
+    "zone": "Asia/Tbilisi",
+    "name": "+04",
+    "country": {
+      "name": "Georgia",
+      "iso_code": "GE"
+    }
+  },
+  {
+    "gmt": "GMT+00:00",
+    "zone": "Africa/Abidjan",
+    "name": "GMT",
+    "country": {
+      "name": "Gambia",
+      "iso_code": "GM"
+    }
+  },
+  {
+    "gmt": "GMT+01:00",
+    "zone": "Africa/Lagos",
+    "name": "WAT",
+    "country": {
+      "name": "Gabon",
+      "iso_code": "GA"
+    }
+  },
+  {
+    "gmt": "GMT+04:00",
+    "zone": "Asia/Dubai",
+    "name": "+04",
+    "country": {
+      "name": "French Southern Territories",
+      "iso_code": "TF"
+    }
+  },
+  {
+    "gmt": "GMT-09:00",
+    "zone": "Pacific/Gambier",
+    "name": "-09",
+    "country": {
+      "name": "French Polynesia",
+      "iso_code": "PF"
+    }
+  },
+  {
+    "gmt": "GMT-03:00",
+    "zone": "America/Cayenne",
+    "name": "-03",
+    "country": {
+      "name": "French Guiana",
+      "iso_code": "GF"
+    }
+  },
+  {
+    "gmt": "GMT+01:00",
+    "zone": "Europe/Paris",
+    "name": "CET",
+    "country": {
+      "name": "France",
+      "iso_code": "FR"
+    }
+  },
+  {
+    "gmt": "GMT+02:00",
+    "zone": "Europe/Helsinki",
+    "name": "EET",
+    "country": {
+      "name": "Finland",
+      "iso_code": "FI"
+    }
+  },
+  {
+    "gmt": "GMT+12:00",
+    "zone": "Pacific/Fiji",
+    "name": "+12",
+    "country": {
+      "name": "Fiji",
+      "iso_code": "FJ"
+    }
+  },
+  {
+    "gmt": "GMT+00:00",
+    "zone": "Atlantic/Faroe",
+    "name": "WET",
+    "country": {
+      "name": "Faroe Islands",
+      "iso_code": "FO"
+    }
+  },
+  {
+    "gmt": "GMT-03:00",
+    "zone": "Atlantic/Stanley",
+    "name": "-03",
+    "country": {
+      "name": "Falkland Islands (Malvinas)",
+      "iso_code": "FK"
+    }
+  },
+  {
+    "gmt": "GMT+03:00",
+    "zone": "Africa/Nairobi",
+    "name": "EAT",
+    "country": {
+      "name": "Ethiopia",
+      "iso_code": "ET"
+    }
+  },
+  {
+    "gmt": "GMT+02:00",
+    "zone": "Europe/Tallinn",
+    "name": "EET",
+    "country": {
+      "name": "Estonia",
+      "iso_code": "EE"
+    }
+  },
+  {
+    "gmt": "GMT+03:00",
+    "zone": "Africa/Nairobi",
+    "name": "EAT",
+    "country": {
+      "name": "Eritrea",
+      "iso_code": "ER"
+    }
+  },
+  {
+    "gmt": "GMT+01:00",
+    "zone": "Africa/Lagos",
+    "name": "WAT",
+    "country": {
+      "name": "Equatorial Guinea",
+      "iso_code": "GQ"
+    }
+  },
+  {
+    "gmt": "GMT-06:00",
+    "zone": "America/El_Salvador",
+    "name": "CST",
+    "country": {
+      "name": "El Salvador",
+      "iso_code": "SV"
+    }
+  },
+  {
+    "gmt": "GMT+02:00",
+    "zone": "Africa/Cairo",
+    "name": "EET",
+    "country": {
+      "name": "Egypt",
+      "iso_code": "EG"
+    }
+  },
+  {
+    "gmt": "GMT-05:00",
+    "zone": "America/Guayaquil",
+    "name": "-05",
+    "country": {
+      "name": "Ecuador",
+      "iso_code": "EC"
+    }
+  },
+  {
+    "gmt": "GMT-04:00",
+    "zone": "America/Santo_Domingo",
+    "name": "AST",
+    "country": {
+      "name": "Dominican Republic",
+      "iso_code": "DO"
+    }
+  },
+  {
+    "gmt": "GMT-04:00",
+    "zone": "America/Puerto_Rico",
+    "name": "AST",
+    "country": {
+      "name": "Dominica",
+      "iso_code": "DM"
+    }
+  },
+  {
+    "gmt": "GMT+03:00",
+    "zone": "Africa/Nairobi",
+    "name": "EAT",
+    "country": {
+      "name": "Djibouti",
+      "iso_code": "DJ"
+    }
+  },
+  {
+    "gmt": "GMT+01:00",
+    "zone": "Europe/Berlin",
+    "name": "CET",
+    "country": {
+      "name": "Denmark",
+      "iso_code": "DK"
+    }
+  },
+  {
+    "gmt": "GMT+01:00",
+    "zone": "Europe/Prague",
+    "name": "CET",
+    "country": {
+      "name": "Czech Republic",
+      "iso_code": "CZ"
+    }
+  },
+  {
+    "gmt": "GMT+02:00",
+    "zone": "Asia/Famagusta",
+    "name": "EET",
+    "country": {
+      "name": "Cyprus",
+      "iso_code": "CY"
+    }
+  },
+  {
+    "gmt": "GMT-05:00",
+    "zone": "America/Havana",
+    "name": "CST",
+    "country": {
+      "name": "Cuba",
+      "iso_code": "CU"
+    }
+  },
+  {
+    "gmt": "GMT+01:00",
+    "zone": "Europe/Belgrade",
+    "name": "CET",
+    "country": {
+      "name": "Croatia",
+      "iso_code": "HR"
+    }
+  },
+  {
+    "gmt": "GMT+00:00",
+    "zone": "Africa/Abidjan",
+    "name": "GMT",
+    "country": {
+      "name": "Cote D'Ivoire",
+      "iso_code": "CI"
+    }
+  },
+  {
+    "gmt": "GMT-06:00",
+    "zone": "America/Costa_Rica",
+    "name": "CST",
+    "country": {
+      "name": "Costa Rica",
+      "iso_code": "CR"
+    }
+  },
+  {
+    "gmt": "GMT-10:00",
+    "zone": "Pacific/Rarotonga",
+    "name": "-10",
+    "country": {
+      "name": "Cook Islands",
+      "iso_code": "CK"
+    }
+  },
+  {
+    "gmt": "GMT+01:00",
+    "zone": "Africa/Lagos",
+    "name": "WAT",
+    "country": {
+      "name": "Congo, the Democratic Republic of the",
+      "iso_code": "CD"
+    }
+  },
+  {
+    "gmt": "GMT+01:00",
+    "zone": "Africa/Lagos",
+    "name": "WAT",
+    "country": {
+      "name": "Congo",
+      "iso_code": "CG"
+    }
+  },
+  {
+    "gmt": "GMT+03:00",
+    "zone": "Africa/Nairobi",
+    "name": "EAT",
+    "country": {
+      "name": "Comoros",
+      "iso_code": "KM"
+    }
+  },
+  {
+    "gmt": "GMT-05:00",
+    "zone": "America/Bogota",
+    "name": "-05",
+    "country": {
+      "name": "Colombia",
+      "iso_code": "CO"
+    }
+  },
+  {
+    "gmt": "GMT+06:30",
+    "zone": "Asia/Yangon",
+    "name": "+0630",
+    "country": {
+      "name": "Cocos (Keeling) Islands",
+      "iso_code": "CC"
+    }
+  },
+  {
+    "gmt": "GMT+07:00",
+    "zone": "Asia/Bangkok",
+    "name": "+07",
+    "country": {
+      "name": "Christmas Island",
+      "iso_code": "CX"
+    }
+  },
+  {
+    "gmt": "GMT+08:00",
+    "zone": "Asia/Shanghai",
+    "name": "CST",
+    "country": {
+      "name": "China",
+      "iso_code": "CN"
+    }
+  },
+  {
+    "gmt": "GMT-03:00",
+    "zone": "America/Punta_Arenas",
+    "name": "-03",
+    "country": {
+      "name": "Chile",
+      "iso_code": "CL"
+    }
+  },
+  {
+    "gmt": "GMT+01:00",
+    "zone": "Africa/Ndjamena",
+    "name": "WAT",
+    "country": {
+      "name": "Chad",
+      "iso_code": "TD"
+    }
+  },
+  {
+    "gmt": "GMT+01:00",
+    "zone": "Africa/Lagos",
+    "name": "WAT",
+    "country": {
+      "name": "Central African Republic",
+      "iso_code": "CF"
+    }
+  },
+  {
+    "gmt": "GMT-05:00",
+    "zone": "America/Panama",
+    "name": "EST",
+    "country": {
+      "name": "Cayman Islands",
+      "iso_code": "KY"
+    }
+  },
+  {
+    "gmt": "GMT-01:00",
+    "zone": "Atlantic/Cape_Verde",
+    "name": "-01",
+    "country": {
+      "name": "Cape Verde",
+      "iso_code": "CV"
+    }
+  },
+  {
+    "gmt": "GMT-07:00",
+    "zone": "America/Cambridge_Bay",
+    "name": "MST",
+    "country": {
+      "name": "Canada",
+      "iso_code": "CA"
+    }
+  },
+  {
+    "gmt": "GMT+01:00",
+    "zone": "Africa/Lagos",
+    "name": "WAT",
+    "country": {
+      "name": "Cameroon",
+      "iso_code": "CM"
+    }
+  },
+  {
+    "gmt": "GMT+07:00",
+    "zone": "Asia/Bangkok",
+    "name": "+07",
+    "country": {
+      "name": "Cambodia",
+      "iso_code": "KH"
+    }
+  },
+  {
+    "gmt": "GMT+02:00",
+    "zone": "Africa/Maputo",
+    "name": "CAT",
+    "country": {
+      "name": "Burundi",
+      "iso_code": "BI"
+    }
+  },
+  {
+    "gmt": "GMT+00:00",
+    "zone": "Africa/Abidjan",
+    "name": "GMT",
+    "country": {
+      "name": "Burkina Faso",
+      "iso_code": "BF"
+    }
+  },
+  {
+    "gmt": "GMT+02:00",
+    "zone": "Europe/Sofia",
+    "name": "EET",
+    "country": {
+      "name": "Bulgaria",
+      "iso_code": "BG"
+    }
+  },
+  {
+    "gmt": "GMT+08:00",
+    "zone": "Asia/Kuching",
+    "name": "+08",
+    "country": {
+      "name": "Brunei Darussalam",
+      "iso_code": "BN"
+    }
+  },
+  {
+    "gmt": "GMT+06:00",
+    "zone": "Indian/Chagos",
+    "name": "+06",
+    "country": {
+      "name": "British Indian Ocean Territory",
+      "iso_code": "IO"
+    }
+  },
+  {
+    "gmt": "GMT-03:00",
+    "zone": "America/Araguaina",
+    "name": "-03",
+    "country": {
+      "name": "Brazil",
+      "iso_code": "BR"
+    }
+  },
+  {
+    "gmt": "GMT+01:00",
+    "zone": "Europe/Oslo",
+    "name": "Oslo",
+    "country": {
+      "name": "Bouvet Island",
+      "iso_code": "BV"
+    }
+  },
+  {
+    "gmt": "GMT+02:00",
+    "zone": "Africa/Maputo",
+    "name": "CAT",
+    "country": {
+      "name": "Botswana",
+      "iso_code": "BW"
+    }
+  },
+  {
+    "gmt": "GMT+01:00",
+    "zone": "Europe/Belgrade",
+    "name": "CET",
+    "country": {
+      "name": "Bosnia and Herzegovina",
+      "iso_code": "BA"
+    }
+  },
+  {
+    "gmt": "GMT-04:00",
+    "zone": "America/La_Paz",
+    "name": "-04",
+    "country": {
+      "name": "Bolivia",
+      "iso_code": "BO"
+    }
+  },
+  {
+    "gmt": "GMT+06:00",
+    "zone": "Asia/Thimphu",
+    "name": "+06",
+    "country": {
+      "name": "Bhutan",
+      "iso_code": "BT"
+    }
+  },
+  {
+    "gmt": "GMT-04:00",
+    "zone": "Atlantic/Bermuda",
+    "name": "AST",
+    "country": {
+      "name": "Bermuda",
+      "iso_code": "BM"
+    }
+  },
+  {
+    "gmt": "GMT+01:00",
+    "zone": "Africa/Lagos",
+    "name": "WAT",
+    "country": {
+      "name": "Benin",
+      "iso_code": "BJ"
+    }
+  },
+  {
+    "gmt": "GMT-06:00",
+    "zone": "America/Belize",
+    "name": "CST",
+    "country": {
+      "name": "Belize",
+      "iso_code": "BZ"
+    }
+  },
+  {
+    "gmt": "GMT+01:00",
+    "zone": "Europe/Brussels",
+    "name": "CET",
+    "country": {
+      "name": "Belgium",
+      "iso_code": "BE"
+    }
+  },
+  {
+    "gmt": "GMT+03:00",
+    "zone": "Europe/Minsk",
+    "name": "+03",
+    "country": {
+      "name": "Belarus",
+      "iso_code": "BY"
+    }
+  },
+  {
+    "gmt": "GMT-04:00",
+    "zone": "America/Barbados",
+    "name": "AST",
+    "country": {
+      "name": "Barbados",
+      "iso_code": "BB"
+    }
+  },
+  {
+    "gmt": "GMT+06:00",
+    "zone": "Asia/Dhaka",
+    "name": "+06",
+    "country": {
+      "name": "Bangladesh",
+      "iso_code": "BD"
+    }
+  },
+  {
+    "gmt": "GMT+03:00",
+    "zone": "Asia/Qatar",
+    "name": "+03",
+    "country": {
+      "name": "Bahrain",
+      "iso_code": "BH"
+    }
+  },
+  {
+    "gmt": "GMT-05:00",
+    "zone": "America/Toronto",
+    "name": "EST",
+    "country": {
+      "name": "Bahamas",
+      "iso_code": "BS"
+    }
+  },
+  {
+    "gmt": "GMT+04:00",
+    "zone": "Asia/Baku",
+    "name": "+04",
+    "country": {
+      "name": "Azerbaijan",
+      "iso_code": "AZ"
+    }
+  },
+  {
+    "gmt": "GMT+01:00",
+    "zone": "Europe/Vienna",
+    "name": "CET",
+    "country": {
+      "name": "Austria",
+      "iso_code": "AT"
+    }
+  },
+  {
+    "gmt": "GMT+11:00",
+    "zone": "Antarctica/Macquarie",
+    "name": "AEDT",
+    "country": {
+      "name": "Australia",
+      "iso_code": "AU"
+    }
+  },
+  {
+    "gmt": "GMT-04:00",
+    "zone": "America/Puerto_Rico",
+    "name": "AST",
+    "country": {
+      "name": "Aruba",
+      "iso_code": "AW"
+    }
+  },
+  {
+    "gmt": "GMT+04:00",
+    "zone": "Asia/Yerevan",
+    "name": "+04",
+    "country": {
+      "name": "Armenia",
+      "iso_code": "AM"
+    }
+  },
+  {
+    "gmt": "GMT-03:00",
+    "zone": "America/Argentina/Buenos_Aires",
+    "name": "-03",
+    "country": {
+      "name": "Argentina",
+      "iso_code": "AR"
+    }
+  },
+  {
+    "gmt": "GMT-04:00",
+    "zone": "America/Puerto_Rico",
+    "name": "AST",
+    "country": {
+      "name": "Antigua and Barbuda",
+      "iso_code": "AG"
+    }
+  },
+  {
+    "gmt": "GMT+08:00",
+    "zone": "Antarctica/Casey",
+    "name": "+08",
+    "country": {
+      "name": "Antarctica",
+      "iso_code": "AQ"
+    }
+  },
+  {
+    "gmt": "GMT-04:00",
+    "zone": "America/Puerto_Rico",
+    "name": "AST",
+    "country": {
+      "name": "Anguilla",
+      "iso_code": "AI"
+    }
+  },
+  {
+    "gmt": "GMT+01:00",
+    "zone": "Africa/Lagos",
+    "name": "WAT",
+    "country": {
+      "name": "Angola",
+      "iso_code": "AO"
+    }
+  },
+  {
+    "gmt": "GMT+01:00",
+    "zone": "Europe/Andorra",
+    "name": "CET",
+    "country": {
+      "name": "Andorra",
+      "iso_code": "AD"
+    }
+  },
+  {
+    "gmt": "GMT-11:00",
+    "zone": "Pacific/Pago_Pago",
+    "name": "SST",
+    "country": {
+      "name": "American Samoa",
+      "iso_code": "AS"
+    }
+  },
+  {
+    "gmt": "GMT+01:00",
+    "zone": "Africa/Algiers",
+    "name": "CET",
+    "country": {
+      "name": "Algeria",
+      "iso_code": "DZ"
+    }
+  },
+  {
+    "gmt": "GMT+01:00",
+    "zone": "Europe/Tirane",
+    "name": "CET",
+    "country": {
+      "name": "Albania",
+      "iso_code": "AL"
+    }
+  },
+  {
+    "gmt": "GMT+04:30",
+    "zone": "Asia/Kabul",
+    "name": "+0430",
+    "country": {
+      "name": "Afghanistan",
+      "iso_code": "AF"
+    }
+  }
+]
